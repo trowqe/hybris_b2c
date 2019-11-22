@@ -1,0 +1,9 @@
+#Ant properties
+#Wed Oct 16 08:52:57 CEST 2019
+builddate=20191016 0851
+description=trainingfacades
+name=trainingfacades
+releasedate=20181129 1417
+vendor=hybris
+version=1811.15
+version.api=1811
